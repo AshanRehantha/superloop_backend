@@ -25,6 +25,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Run System Configuration
 
+cut and pase docker-compose.yml file out side the project
+
+project structure must be api folder frontend folder and docker-compose.yml 
+
 Backend API
 http://localhost:8099/
 
